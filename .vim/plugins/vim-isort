@@ -1,0 +1,6 @@
+" isort for vim
+Plugin 'fisadev/vim-isort'
+
+let g:vim_isort_map = '<C-i>'
+
+" vim:ft=vim

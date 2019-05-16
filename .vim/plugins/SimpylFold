@@ -1,0 +1,7 @@
+" folding
+Plugin 'tmhedberg/SimpylFold'
+
+" see docstrings for folded code
+let g:SimpylFold_docstring_preview = 1
+
+" vim:ft=vim

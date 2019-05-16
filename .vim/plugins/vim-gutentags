@@ -1,0 +1,4 @@
+" automatic tag management
+Plugin 'ludovicchabant/vim-gutentags'
+
+" vim:ft=vim

@@ -1,0 +1,15 @@
+" ale, Asynchronous Lint Engine
+Plugin 'w0rp/ale'
+
+" Enable completion where available.
+" This setting must be set before ALE is loaded.
+let g:ale_completion_enabled = 1
+let g:ale_sign_column_always = 1
+" let g:ale_linters = {'python': ['bandit', 'flake8', 'mypy', 'prospector', 'pycodestyle', 'pydocstyle', 'pyflakes', 'pylama', 'pylint', 'pyls', 'pyre', 'vulture']}
+let g:ale_linters = {'python': ['flake8', 'pylint']}
+let g:ale_type_map = {'flake8': {'W': 'E'}}
+let g:ale_fixers = {
+\   'python': ['add_blank_lines_for_python_control_statements', 'autopep8', 'black', 'isort', 'remove_trailing_lines', 'trim_whitespace', 'yapf']
+\}
+
+" vim:ft=vim

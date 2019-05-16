@@ -1,0 +1,4 @@
+" color schemes
+Plugin 'NLKNguyen/papercolor-theme'
+
+" vim:ft=vim

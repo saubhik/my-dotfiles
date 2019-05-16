@@ -1,0 +1,4 @@
+" git integration
+Plugin 'tpope/vim-fugitive'
+
+" vim:ft=vim

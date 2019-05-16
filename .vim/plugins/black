@@ -1,0 +1,6 @@
+" black
+Plugin 'ambv/black'
+
+let g:black_linelength = 79
+
+" vim:ft=vim

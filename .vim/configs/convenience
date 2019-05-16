@@ -1,0 +1,23 @@
+colorscheme PaperColor
+
+" move vertically by visual line
+nnoremap j gj
+nnoremap k gk
+
+" buffer management
+map gn :bn<cr>
+map gp :bp<cr>
+nmap <Tab> :b#<cr>
+
+" go to buffer
+nnoremap gb :ls<CR>:b<Space>
+
+" split navigations
+set splitbelow
+set splitright
+nnoremap <C-J> <C-W><C-J>
+nnoremap <C-K> <C-W><C-K>
+nnoremap <C-L> <C-W><C-L>
+nnoremap <C-H> <C-W><C-H>
+
+" vim:ft=vim

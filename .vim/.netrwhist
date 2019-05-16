@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/saubhik/Documents/search/src/tests/test_exp/test_project_x'
+let g:netrw_dirhist_2='/Users/saubhik/Documents/search/src/tests/test_exp'
+let g:netrw_dirhist_3='/Users/saubhik/Documents/search/src/tests'
+let g:netrw_dirhist_4='/Users/saubhik/Documents/search/src'
+let g:netrw_dirhist_5='/Users/saubhik/Documents/search'
+let g:netrw_dirhist_6='/Users/saubhik/Documents/search/tools'
+let g:netrw_dirhist_7='/Users/saubhik/Documents/search/tools/fixturegen'

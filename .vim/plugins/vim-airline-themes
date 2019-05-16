@@ -1,0 +1,7 @@
+" airline-themes
+Plugin 'vim-airline/vim-airline-themes'
+
+" set airline theme
+let g:airline_theme = 'bubblegum'
+
+" vim:ft=vim

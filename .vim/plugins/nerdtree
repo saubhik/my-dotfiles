@@ -1,0 +1,10 @@
+" file browsing
+Plugin 'scrooloose/nerdtree'
+
+" hide .pyc files
+let NERDTreeIgnore = ['\.pyc$', '\~$']
+
+" nerd tree settings
+map <C-n> :NERDTreeToggle<CR>
+
+" vim:ft=vim

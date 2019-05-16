@@ -1,0 +1,7 @@
+" vimwiki
+Plugin 'vimwiki/vimwiki'
+
+let g:vimwiki_list = [{'path': '~/Documents/saubhik.github.io',
+                      \ 'syntax': 'markdown', 'ext': '.md'}]
+
+" vim:ft=vim

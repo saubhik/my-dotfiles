@@ -1,0 +1,6 @@
+" bufkill
+Plugin 'qpkorr/vim-bufkill'
+
+map gd :BD<cr>
+
+" vim:ft=vim
